@@ -6,7 +6,7 @@ LINK : https://user32-webapp-euahh4h5e4exbehn.swedencentral-01.azurewebsites.net
 
 ![risk_inspector_home](https://github.com/user-attachments/assets/9da47d08-e7f2-45c4-989b-b45f75abbef1)
 
-📘 Azure 기반 생성형 AI 프로젝트 제안서<br><br>
+📘 Azure 기반 생성형 AI 프로젝트<br><br>
 ________________________________________
 ✅ 프로젝트: SI 프로젝트 리스크 탐지 및 대응 지원 에이전트<br><br>
 📌 개요 및 목적<br>
